@@ -2,9 +2,10 @@
 
 This repository publishes the [Bellow](https://xuancongwen.github.io/bellow-app/)
 website (the `gh-pages` branch) and the release downloads for the app, a local,
-private dictation app for Apple Silicon Macs. The app's source lives in a
-separate, private repository; releases here carry the signed, notarized DMG and
-its checksum, and the site serves the installer and the update feed.
+private dictation app for Apple Silicon Macs. The app's source is at
+[xuancongwen/bellow](https://github.com/xuancongwen/bellow); releases here
+carry the signed, notarized DMG and its checksum, and the site serves the
+installer and the update feed.
 
 Install:
 
