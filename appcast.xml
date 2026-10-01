@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Bellow</title>
+    <link>https://xuancongwen.github.io/bellow-app/</link>
+    <description>Bellow updates</description>
+    <language>en</language>
+    <item>
+      <title>1.0.0-rc.14</title>
+      <pubDate>Thu, 01 Oct 2026 20:01:41 GMT</pubDate>
+      <sparkle:version>202610011957</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-rc.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <link>https://github.com/xuancongwen/bellow-app/releases/tag/v1.0.0-rc.14</link>
+      <description>&lt;p&gt;Bellow 1.0.0-rc.14.&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/xuancongwen/bellow-app/releases/tag/v1.0.0-rc.14"&gt;Release notes&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/xuancongwen/bellow-app/releases/download/v1.0.0-rc.14/Bellow-1.0.0-rc.14-macOS-arm64.dmg" length="20230185" type="application/octet-stream" sparkle:edSignature="2Ct91XVPUdhXCO5DFQV4thhKbTHDiH2dUeXNxZhJP1TyvX6yvnAOFzcSEBEO7w6dnwffec2ZB/uYNKW0jE0BAQ==" />
+    </item>
+    <item>
+      <title>1.0.0-rc.13</title>
+      <pubDate>Thu, 01 Oct 2026 06:18:37 GMT</pubDate>
+      <sparkle:version>202610010616</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-rc.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <link>https://github.com/xuancongwen/bellow-app/releases/tag/v1.0.0-rc.13</link>
+      <description>&lt;p&gt;&lt;b&gt;Bellow 1.0.0-rc.13&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Faster cleanup:&lt;/b&gt; the cleanup models now run in llama.cpp instead of Ollama, cleaning a dictation in about a third of a second on Max, with the same memory use.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;New Tiny model&lt;/b&gt; for the quickest answers in the least memory. Choose it in Settings; its edits are weaker than Standard's.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Fast is gone:&lt;/b&gt; it was slower and less accurate than Standard on the new engine. If you chose it, Bellow goes back to Automatic.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Invented numbers are caught:&lt;/b&gt; if the cleanup writes a number you never said, Bellow types your words as spoken.&lt;/li&gt;
+&lt;li&gt;Requires macOS 13.3 or newer. Your downloaded models are reused, so nothing is downloaded again.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://github.com/xuancongwen/bellow-app/releases/tag/v1.0.0-rc.13"&gt;Release notes&lt;/a&gt;&lt;/p&gt;
+</description>
+      <enclosure url="https://github.com/xuancongwen/bellow-app/releases/download/v1.0.0-rc.13/Bellow-1.0.0-rc.13-macOS-arm64.dmg" length="20227876" type="application/octet-stream" sparkle:edSignature="s+YYKr6h0qTYjNdnETQgyc47Nex84sEokVaJu1lDRT7jqDXMrpa2iI+PJ9mFsX7HnNg8PnYjr1DjwH/929ZBDg==" />
+    </item>
+    <item>
+      <title>1.0.0-rc.12</title>
+      <pubDate>Tue, 29 Sep 2026 17:52:20 GMT</pubDate>
+      <sparkle:version>202609291740</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-rc.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <link>https://github.com/xuancongwen/bellow-app/releases/tag/v1.0.0-rc.12</link>
+      <description>&lt;p&gt;Bellow 1.0.0-rc.12.&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/xuancongwen/bellow-app/releases/tag/v1.0.0-rc.12"&gt;Release notes&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/xuancongwen/bellow-app/releases/download/v1.0.0-rc.12/Bellow-1.0.0-rc.12-macOS-arm64.dmg" length="24491068" type="application/octet-stream" sparkle:edSignature="r3UZYmptK7Q7RgvAudif7nLsF0oNFO/4M+ijzKINCTxHq7Wuun/d5+7pAgYTDYmRyiB9efgKY3oKeptexkZMCA==" />
+    </item>
+    <item>
+      <title>1.0.0-rc.11</title>
+      <pubDate>Mon, 28 Sep 2026 21:53:22 GMT</pubDate>
+      <sparkle:version>202609282151</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-rc.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <link>https://github.com/xuancongwen/bellow-app/releases/tag/v1.0.0-rc.11</link>
+      <description>&lt;p&gt;Bellow 1.0.0-rc.11.&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/xuancongwen/bellow-app/releases/tag/v1.0.0-rc.11"&gt;Release notes&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/xuancongwen/bellow-app/releases/download/v1.0.0-rc.11/Bellow-1.0.0-rc.11-macOS-arm64.dmg" length="24482218" type="application/octet-stream" sparkle:edSignature="PmymVEZBQh6mfO9zD8VRWqudeSwjP7SCz3PUdsl+1B4lZs+3ghHLDhHx/aHelYWfG0iaZuhAjAwHqi0NJ/QeBA==" />
+    </item>
+    <item>
+      <title>1.0.0-rc.10</title>
+      <pubDate>Mon, 28 Sep 2026 20:11:29 GMT</pubDate>
+      <sparkle:version>202609282009</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-rc.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <link>https://github.com/xuancongwen/bellow-app/releases/tag/v1.0.0-rc.10</link>
+      <description>&lt;p&gt;Bellow 1.0.0-rc.10 keeps dictating when your Mac runs low on memory. Cleanup continues while you dictate; after three idle minutes, or at once if memory gets critically low, Bellow unloads its cleanup model and types your words as heard until memory frees up.&lt;/p&gt;
+&lt;p&gt;Also in this release: cleanup no longer answers or translates what you dictate, Max and Standard handle self-corrections, emails, and spoken addresses better, and release candidates now check for updates every 30 minutes.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/xuancongwen/bellow-app/releases/tag/v1.0.0-rc.10"&gt;Full release notes&lt;/a&gt;&lt;/p&gt;
+</description>
+      <enclosure url="https://github.com/xuancongwen/bellow-app/releases/download/v1.0.0-rc.10/Bellow-1.0.0-rc.10-macOS-arm64.dmg" length="24476709" type="application/octet-stream" sparkle:edSignature="y9BjzTOtmlSQORyIL/2IajBu6UFAAHZhTZq6zjrroH8hoDUMV4us0TBrxvl9nR9TEEUe03Fz5zXGqlzjDuZ8AQ==" />
+    </item>
+    <item>
+      <title>1.0.0-rc.9</title>
+      <pubDate>Sat, 26 Sep 2026 21:29:51 GMT</pubDate>
+      <sparkle:version>202609262127</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-rc.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <link>https://github.com/xuancongwen/bellow-app/releases/tag/v1.0.0-rc.9</link>
+      <description>&lt;p&gt;Bellow 1.0.0-rc.9 is the first release that updates itself. The app checks once a day and offers each update before installing it; &lt;b&gt;Check for Updates…&lt;/b&gt; in the menu bar asks right away.&lt;/p&gt;
+&lt;p&gt;Also in this release: downloads and the website moved to a dedicated repository, and the app no longer looks for the data directory of its old name.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/xuancongwen/bellow-app/releases/tag/v1.0.0-rc.9"&gt;Full release notes&lt;/a&gt;&lt;/p&gt;
+</description>
+      <enclosure url="https://github.com/xuancongwen/bellow-app/releases/download/v1.0.0-rc.9/Bellow-1.0.0-rc.9-macOS-arm64.dmg" length="24465047" type="application/octet-stream" sparkle:edSignature="S5HDXlNxA8hd07YV/tWJ1SMpUyasxzgsPLhuuwAjlKHWnyKboadgkBL5d3D0cbs8E/LPl2gOhLT5/tQX16ehAg==" />
+    </item>
+  </channel>
+</rss>
