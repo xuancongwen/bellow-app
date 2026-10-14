@@ -1,0 +1,29 @@
+Bellow License
+
+Copyright (c) 2026 Sam Wen. All rights reserved.
+
+Bellow, including its source code, cleanup prompts, artwork, and
+documentation (the "Software"), is proprietary and is licensed, not sold.
+
+You may download, install, and use the Software on Macs you own or control.
+A paid license key, where offered, is subject to the terms shown at purchase.
+
+Unless Sam Wen gives you written permission, you may not copy, modify,
+translate, or create derivative works of the Software; distribute, sublicense,
+rent, lease, sell, or otherwise make it available to others; or reverse
+engineer, decompile, or disassemble it, except to the extent applicable law
+expressly permits despite this limitation. Access to the source code does not
+grant any of these rights.
+
+The Software includes third-party components under their own licenses, listed
+in THIRD-PARTY-NOTICES.md and included in the app bundle at
+Bellow.app/Contents/Resources/licenses/. Those licenses govern those
+components, and nothing here restricts the rights they grant.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
